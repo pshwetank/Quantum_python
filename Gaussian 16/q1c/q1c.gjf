@@ -1,0 +1,16 @@
+%nprocshared=4
+%mem=1GB
+%chk=q1c.chk
+# scan rhf/3-21g guess=tcheck geom=connectivity
+
+Rigid Potential Energy Scan for LiH
+
+0 1
+ Li             
+ H                  1            B1
+
+   B1             0.5 100 0.1
+
+ 1 2 1.0
+ 2
+
