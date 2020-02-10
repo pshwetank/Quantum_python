@@ -1,0 +1,2 @@
+Energy 	      = -7.928198 Hartree
+Dipole Moment =  5.757191 Debye
