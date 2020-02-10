@@ -1,0 +1,3 @@
+Energy = -7.929843 Hartree	
+Dipole Moment = 5.988782 Debye
+Bond Length = 1.64011 A

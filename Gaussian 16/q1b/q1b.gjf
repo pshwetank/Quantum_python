@@ -1,0 +1,16 @@
+%nprocshared=4
+%mem=1GB
+%chk=q1b.chk
+# opt rhf/3-21g guess=tcheck geom=connectivity
+
+Geometry Optimization for LiH
+
+0 1
+ Li             
+ H                  1            B1
+
+   B1             1.53000011
+
+ 1 2 1.0
+ 2
+
